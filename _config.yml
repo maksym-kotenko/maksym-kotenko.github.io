@@ -1,0 +1,50 @@
+title: Maksym Kotenko
+email: maksym_kotenko@outlook.com
+description: >
+  Senior Software Engineer and Team Lead with over 8 years in enterprise software development. Expertise in .NET and Azure ecosystems, with a strong foundation in microservices architecture, cloud technologies, and agile methodologies.
+url: "maksym-kotenko.github.io"
+github_username: maksym-kotenko
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - about
+  - experience
+  - skills
+  - certifications
+  - projects
+  - contact
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Experience
+    url: /experience/
+  - title: Skills
+    url: /skills/
+  - title: Certifications
+    url: /certifications/
+  - title: Projects
+    url: /projects/
+  - title: Contact
+    url: /contact/
+
+social:
+  linkedin: https://www.linkedin.com/in/max-kotenko/
+  github: https://github.com/maksym-kotenko
+  
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
