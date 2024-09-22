@@ -24,6 +24,8 @@ header_pages:
   - certifications
   - projects
   - contact
+  
+favicon: /favicon.ico
 
 social:
   linkedin: https://www.linkedin.com/in/max-kotenko/
