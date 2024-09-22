@@ -142,7 +142,7 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Credential ID:** BCD6F5E59231A82C
 - **Certification Number:** 8654F7-ND5F7F
 
-<iframe src="/assets/certifications/Azure_Developer_Associate.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="/assets/certifications/Azure_Developer_Associate.pdf#toolbar=0" width="100%" height="500px" style="border: none;"></iframe>
 
 ---
 
@@ -150,7 +150,7 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Credential ID:** 704836E10A1BFE68
 - **Certification Number:** 5A3F0A-94D455
 
-<iframe src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf#toolbar=0" width="100%" height="500px" style="border: none;"></iframe>
 
 ---
 
