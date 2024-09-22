@@ -1,13 +1,13 @@
 ---
 layout: home
-title: "Maksym Kotenko - Senior Software Engineer | Team Lead"
+title: "Maksym Kotenko - Software Engineer"
 description: "Senior Software Engineer and Team Lead with over 8 years in enterprise software development."
 show_recent_posts: false
 ---
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; margin-bottom: 40px;">
 <img src="assets/images/profile-photo.jpg" alt="Maksym Kotenko" style="
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
   margin-right: 20px;
