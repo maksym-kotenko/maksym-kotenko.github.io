@@ -142,7 +142,7 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Credential ID:** BCD6F5E59231A82C
 - **Certification Number:** 8654F7-ND5F7F
 
-<iframe class="pdf-viewer" src="/assets/certifications/Azure_Developer_Associate.pdf#toolbar=0"></iframe>
+<iframe src="/assets/certifications/Azure_Developer_Associate.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
 
 ---
 
@@ -150,13 +150,13 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Credential ID:** 704836E10A1BFE68
 - **Certification Number:** 5A3F0A-94D455
 
-<iframe class="pdf-viewer" src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf#toolbar=0"></iframe>
+<iframe src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
 
 ---
 
 ### LinkedIn Profile Page
 
-<iframe class="pdf-viewer" src="/assets/certifications/LinkedIn_Page.pdf#toolbar=0"></iframe>
+<iframe src="/assets/certifications/LinkedIn_Page.pdf#toolbar=0" width="100%" height="1000px" style="border: none;"></iframe>
 
 ---
 
@@ -223,18 +223,15 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 ---
 ## Testimonials
 
-> "I had the opportunity to work closely with Maksym from March 2021 to March 2024, where he excelled in his dual role as a backend developer and the team lead of our backend integrations team.
+> "I had the opportunity to work closely with Maksym from March 2021 to March 2024, where he excelled in his dual role as a backend developer and the team lead of our backend integrations team. Maksym consistently demonstrated excellent technical skills, especially in handling complex proprietary integrations. He was always quick to understand new systems and develop efficient solutions, no matter how challenging the integration requirements were. His ability to manage and guide the team through these challenges was invaluable. Beyond his technical abilities, Maksym was a strong communicator and a team player. He worked well with both the development and product teams, ensuring everyone was aligned and projects moved smoothly. It was great working with him, and I have no doubt he’ll bring the same dedication and skill to his future roles."  
 
-Maksym consistently demonstrated excellent technical skills, especially in handling complex proprietary integrations. He was always quick to understand new systems and develop efficient solutions, no matter how challenging the integration requirements were. His ability to manage and guide the team through these challenges was invaluable.
-
-Beyond his technical abilities, Maksym was a strong communicator and a team player. He worked well with both the development and product teams, ensuring everyone was aligned and projects moved smoothly. It was great working with him, and I have no doubt he’ll bring the same dedication and skill to his future roles."  
-> — **Slava Vlaskin**, Delivery Manager / Technical Product Owner at Forte Group
+> — **Slava Vlaskin**, Delivery Manager / Technical Product Owner at *Forte Group*
 
 
 ---
 ## Resume
 
-<iframe class="pdf-viewer" src="/assets/certifications/Resume.pdf#toolbar=0"></iframe>
+<iframe src="/assets/certifications/Resume.pdf#toolbar=0" width="100%" height="1000px" style="border: none;"></iframe>
 
 ---
 
