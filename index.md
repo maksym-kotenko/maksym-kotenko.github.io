@@ -9,7 +9,7 @@ show_recent_posts: false
 
 **Senior Software Engineer | Team Lead**
 
-With over 8 years of experience in enterprise software development, I specialize in .NET and Azure ecosystems, microservices architecture, and agile methodologies. I lead and mentor development teams to deliver high-quality software solutions.
+With over 8 years of experience in enterprise software development, I specialize in .NET and Azure ecosystems, microservices architecture, and agile methodologies. I lead and mentor development teams to deliver high-quality software solutions that drive business success.
 
 [Download My Resume](/assets/certifications/Resume.pdf) | [View Certifications](/certifications/)
 
@@ -18,6 +18,16 @@ With over 8 years of experience in enterprise software development, I specialize
 ## About Me
 
 I am a dedicated Senior Software Engineer and Team Lead with over 8 years of experience in enterprise software development. My expertise lies in the .NET and Azure ecosystems, with a strong foundation in microservices architecture, cloud technologies, and agile methodologies. I have a proven track record of leading and mentoring development teams, driving architectural improvements, and delivering high-quality software solutions. I am fluent in English, Ukrainian, and Russian, with basic proficiency in Bulgarian.
+
+---
+
+## Professional Highlights
+
+- **Leadership:** Successfully led teams of up to 7 members, facilitating communication and collaboration to achieve project goals.
+- **Technical Expertise:** Advanced knowledge in C#, .NET Core, Azure, Docker, Kubernetes, and various database technologies.
+- **Project Management:** Skilled in managing project scopes, delegating tasks, and ensuring timely delivery of core platform functionalities.
+- **Continuous Improvement:** Committed to professional development, obtaining multiple Microsoft certifications to stay current with industry trends.
+- **Problem-Solving:** Adept at identifying issues, analyzing root causes, and implementing effective solutions to complex technical challenges.
 
 ---
 
@@ -35,6 +45,68 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - Collaborate with cross-functional teams to design and implement unified authentication services.
 
 **Technologies:** C#, .NET Core, EF Core, MongoDB, PostgreSQL, Kafka, Redis, Docker, Microservices, DDD, Clean Architecture
+
+---
+
+### Forte Group
+**Team Lead / Senior .NET Engineer**  
+*April 2021 – April 2024*
+
+**Project:** Interfirst Mortgage Company (Fin-Tech)
+
+**Responsibilities:**
+- Led a team of 7 (5 developers, QA, BA) in transitioning from a monolithic architecture to microservices.
+- Introduced new technologies and best practices to enhance project efficiency and code quality.
+- Managed project scope, delegated tasks, and ensured timely delivery of core platform functionalities.
+- Facilitated communication with clients to gather requirements and provide architectural solutions.
+- Conducted code reviews, monitored system performance, and optimized existing functionalities.
+
+**Technologies:** C#, .NET Core, EF Core, Azure, MS SQL Server, Microservices, DDD, Clean Architecture
+
+---
+
+### ABP
+**Senior Software Engineer with Team Lead Responsibilities**  
+*June 2020 – April 2021*
+
+**Project:** Avto.pro (Trading Platform for Auto Parts Sales)
+
+**Responsibilities:**
+- Integrated new Azure technologies to enhance platform capabilities and performance.
+- Addressed and resolved issues within the monolithic system while developing new services.
+- Led a team of 4, overseeing application logic development, bug fixing, and code optimization.
+- Implemented unit and integration testing to ensure software reliability.
+
+**Technologies:** .NET Framework, .NET Core, Microservices, Azure (IaaS, Storage, Functions), Application Insights, Data Factory, WPF, WCF, ADO.NET, Entity Framework, REST, MS SQL Server, T-SQL
+
+---
+
+### ABP
+**Middle Software Engineer**  
+*December 2018 – June 2020*
+
+**Responsibilities:**
+- Developed a complex trading platform for auto parts sales with intricate database architectures.
+- Created applications for expert and internal departments, enhancing operational workflows.
+- Participated in goal setting, architectural design, feature decomposition, and task assignment.
+
+**Technologies:** .NET Framework, Azure Storage, Application Insights, Azure Functions, RabbitMQ, ASP.NET, WPF, WCF, ADO.NET, Entity Framework, REST, MS SQL Server, T-SQL
+
+---
+
+### ABP
+**Junior Software Engineer**  
+*September 2016 – December 2018*
+
+**Project:** High-load Parsing System
+
+**Responsibilities:**
+- Developed application logic using parallelism and multithreading to handle high-load scenarios.
+- Enhanced desktop WPF applications and expanded web application functionalities for analytics and statistics.
+- Conducted bug fixes, code optimization, and refactoring to improve system performance.
+- Updated and created technical documentation to support development processes.
+
+**Technologies:** .NET Framework, RabbitMQ, AngleSharp, WPF, ASP.NET, ADO.NET, Entity Framework, REST, MS SQL Server, T-SQL
 
 ---
 
@@ -60,6 +132,9 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Technologies:** REST APIs, WebSockets, Kafka, Docker, Azure DevOps Server
 - **Methodologies:** Agile Methodologies
 
+### Soft Skills
+- **Skills:** Team Leadership, Project Management, Communication, Problem-Solving, Adaptability
+
 ---
 
 ## Certifications
@@ -68,9 +143,7 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Credential ID:** BCD6F5E59231A82C
 - **Certification Number:** 8654F7-ND5F7F
 
-<iframe class="pdf-viewer" src="/assets/certifications/Azure_Developer_Associate.pdf#toolbar=0" width="100%" height="800px" style="border: none;">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/certifications/Azure_Developer_Associate.pdf">Download PDF</a>.
-</iframe>
+<iframe class="pdf-viewer" src="/assets/certifications/Azure_Developer_Associate.pdf#toolbar=0"></iframe>
 
 ---
 
@@ -78,25 +151,81 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Credential ID:** 704836E10A1BFE68
 - **Certification Number:** 5A3F0A-94D455
 
-<iframe class="pdf-viewer" src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf#toolbar=0" width="100%" height="800px" style="border: none;">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf">Download PDF</a>.
-</iframe>
+<iframe class="pdf-viewer" src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf#toolbar=0"></iframe>
 
 ---
 
 ### LinkedIn Profile Page
 
-<iframe class="pdf-viewer" src="/assets/certifications/LinkedIn_Page.pdf#toolbar=0" width="100%" height="800px" style="border: none;">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/certifications/LinkedIn_Page.pdf">Download PDF</a>.
-</iframe>
+<iframe class="pdf-viewer" src="/assets/certifications/LinkedIn_Page.pdf#toolbar=0"></iframe>
 
 ---
 
 ## Projects
 
-<!-- Add your projects here or link to a detailed projects section -->
+### Slotegrator SSO Integration
+**Description:** Developed a comprehensive Single Sign-On (SSO) solution to streamline user authentication across multiple platforms.
 
-[View Projects](/projects/)
+**Technologies Used:** C#, .NET Core, Azure Functions, Docker, RabbitMQ
+
+**Role:** Lead Developer
+
+**Achievements:**
+- Successfully implemented SSO, reducing user login times by 40%.
+- Enhanced security protocols, ensuring compliance with industry standards.
+
+**Link:** [Web site](https://slotegrator.pro/about-us.html)
+
+---
+
+### Forte Group
+**Description:** Led the transition of Interfirst Mortgage Company's platform from a monolithic architecture to a scalable microservices architecture.
+
+**Technologies Used:** C#, .NET Core, Azure, Docker, Kubernetes
+
+**Role:** Team Lead
+
+**Achievements:**
+- Improved system scalability by 50%, accommodating increased user load.
+- Streamlined deployment processes, reducing release cycles by 30%.
+
+**Link:** [Web site](https://fortegrp.com/about-forte-group)
+
+---
+
+### Avto.pro Trading Platform
+**Description:** Enhanced the trading platform for auto parts sales by integrating Azure technologies and developing new microservices.
+
+**Technologies Used:** .NET Core, Azure Functions, Application Insights, WPF
+
+**Role:** Senior Software Engineer
+
+**Achievements:**
+- Increased platform performance by 25% through optimized microservices.
+- Implemented comprehensive testing, improving software reliability.
+
+**Link:** [Web site](https://avto.pro/static/about/)
+
+---
+
+### High-load Parsing System
+**Description:** Developed a high-load parsing system capable of handling large-scale data processing tasks efficiently.
+
+**Technologies Used:** .NET Framework, RabbitMQ, AngleSharp, WPF
+
+**Role:** Junior Software Engineer
+
+**Achievements:**
+- Achieved a 50% increase in data processing speed through optimized multithreading.
+- Enhanced system reliability, reducing downtime by 20%.
+
+**Link:** [Web site](https://abp.biz/)
+
+---
+
+## Resume
+
+<iframe class="pdf-viewer" src="/assets/certifications/Resume.pdf#toolbar=0"></iframe>
 
 ---
 
