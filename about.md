@@ -18,6 +18,6 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 [Download My Resume](#download-section)
 ## LinkedIn Profile
 
-<iframe src="/assets/certifications/LinkedIn_Page.pdf" width="100%" height="600px">
+<iframe class="pdf-viewer" src="/assets/certifications/LinkedIn_Page.pdf" width="100%" height="1000px" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/certifications/LinkedIn_Page.pdf">Download PDF</a>.
 </iframe>
