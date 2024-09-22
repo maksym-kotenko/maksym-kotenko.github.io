@@ -2,18 +2,21 @@ title: Maksym Kotenko
 email: maksym_kotenko@outlook.com
 description: >
   Senior Software Engineer and Team Lead with over 8 years in enterprise software development. Expertise in .NET and Azure ecosystems, with a strong foundation in microservices architecture, cloud technologies, and agile methodologies.
-url: "maksym-kotenko.github.io"
+url: "https://maksym-kotenko.github.io" # the base hostname & protocol for your site
 github_username: maksym-kotenko
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes
+theme: "minimal-mistakes-jekyll"
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-swiss
 
 # Navigation
 header_pages:
@@ -24,27 +27,15 @@ header_pages:
   - projects
   - contact
 
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Experience
-    url: /experience/
-  - title: Skills
-    url: /skills/
-  - title: Certifications
-    url: /certifications/
-  - title: Projects
-    url: /projects/
-  - title: Contact
-    url: /contact/
-
 social:
   linkedin: https://www.linkedin.com/in/max-kotenko/
-  github: https://github.com/maksym-kotenko
-  
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  github: https://github.com/maksym-kotenko/
+
+# SEO settings
+jekyll_seo_tag:
+  title: "Maksym Kotenko - Senior Software Engineer | Team Lead"
+  description: >
+    Senior Software Engineer and Team Lead with over 8 years in enterprise software development. Expertise in .NET and Azure ecosystems, microservices architecture, cloud technologies, and agile methodologies.
+  url: "https://maksym-kotenko.github.io"
+  image: "/assets/images/profile.jpg"
+  type: "website"
