@@ -1,9 +1,19 @@
 ---
 layout: home
-title: "Welcome"
+title: "Maksym Kotenko - Senior Software Engineer | Team Lead"
 description: "Senior Software Engineer and Team Lead with over 8 years in enterprise software development."
 show_recent_posts: false
 ---
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; margin-bottom: 40px;">
+<img src="assets/images/profile-photo.jpg" alt="Maksym Kotenko" style="
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+" /></div>
+
 
 ## Hello, I'm Maksym Kotenko
 **Senior Software Engineer | Team Lead**
@@ -142,7 +152,7 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Credential ID:** BCD6F5E59231A82C
 - **Certification Number:** 8654F7-ND5F7F
 
-<iframe src="/assets/certifications/Azure_Developer_Associate.pdf#toolbar=0" width="100%" height="500px" style="border: none;"></iframe>
+<iframe src="/assets/certifications/Azure_Developer_Associate.pdf#toolbar=0" width="100%" height="498px" style="border: none;"></iframe>
 
 ---
 
@@ -150,7 +160,7 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Credential ID:** 704836E10A1BFE68
 - **Certification Number:** 5A3F0A-94D455
 
-<iframe src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf#toolbar=0" width="100%" height="500px" style="border: none;"></iframe>
+<iframe src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf#toolbar=0" width="100%" height="498px" style="border: none;"></iframe>
 
 ---
 

@@ -11,7 +11,7 @@ permalink: /certifications/
 - **Certification Number:** 8654F7-ND5F7F
 - [View Certification](#azure-developer-associate)
 
-<iframe class="pdf-viewer" src="/assets/certifications/Azure_Developer_Associate.pdf" width="100%" height="1000px" style="border: none;">
+<iframe class="pdf-viewer" src="/assets/certifications/Azure_Developer_Associate.pdf" width="100%" height="498px" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/certifications/Azure_Developer_Associate.pdf">Download PDF</a>.
 </iframe>
 
@@ -20,6 +20,6 @@ permalink: /certifications/
 - **Certification Number:** 5A3F0A-94D455
 - [View Certification](#azure-devops-engineer-expert)
 
-<iframe class="pdf-viewer" src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf" width="100%" height="1000px" style="border: none;">
+<iframe class="pdf-viewer" src="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf" width="100%" height="498px" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/certifications/Azure_DevOps_Engineer_Expert.pdf">Download PDF</a>.
 </iframe>
