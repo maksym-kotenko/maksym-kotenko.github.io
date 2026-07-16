@@ -10,7 +10,7 @@ permalink: /projects/
 Developed a comprehensive management system for an enterprise client, enhancing operational efficiency through automation and streamlined workflows. Technologies used include C#, .NET Core, and Azure.
 
 ### E-commerce Platform
-Created a scalable e-commerce platform capable of handling high traffic and transactions, utilizing microservices architecture with Docker and Kubernetes.
+Created a scalable e-commerce platform capable of handling high traffic and transactions, utilizing microservices architecture with Docker.
 
 ### Single Sign-On (SSO)
 Implemented a unified authentication service to streamline user access across multiple applications, ensuring secure and efficient login processes.
