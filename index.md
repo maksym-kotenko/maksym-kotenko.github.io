@@ -177,7 +177,7 @@ I am a dedicated Senior Software Engineer and Team Lead with 9+ years of experie
 
 **Technologies Used:** C#, .NET Core, PostgreSQL, MongoDB, Kafka, Redis, Docker
 
-**Role:** Lead Developer
+**Role:** Senior Software Engineer
 
 **Achievements:**
 - Unified authentication across multiple platforms, eliminating duplicated auth logic and standardizing token issuance and session management.
