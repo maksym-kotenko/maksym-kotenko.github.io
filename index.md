@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Maksym Kotenko - Software Engineer"
-description: "Senior Software Engineer and Team Lead with over 8 years in enterprise software development."
+description: "Senior Software Engineer and Team Lead with 9+ years in enterprise software development."
 show_recent_posts: false
 ---
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; margin-bottom: 40px;">
@@ -18,7 +18,7 @@ show_recent_posts: false
 ## Hello, I'm Maksym Kotenko
 **Senior Software Engineer | Team Lead**
 
-With over 8 years of experience in enterprise software development, I specialize in .NET and Azure ecosystems, microservices architecture, and agile methodologies. I lead and mentor development teams to deliver high-quality software solutions that drive business success.
+With 9+ years of experience in enterprise software development, I specialize in .NET and Azure ecosystems, microservices architecture, and agile methodologies. I lead and mentor development teams to deliver high-quality software solutions that drive business success.
 
 [Download My Resume](/assets/certifications/Resume.pdf) | [View Certifications](/certifications/)
 
@@ -26,14 +26,14 @@ With over 8 years of experience in enterprise software development, I specialize
 
 ## About Me
 
-I am a dedicated Senior Software Engineer and Team Lead with over 8 years of experience in enterprise software development. My expertise lies in the .NET and Azure ecosystems, with a strong foundation in microservices architecture, cloud technologies, and agile methodologies. I have a proven track record of leading and mentoring development teams, driving architectural improvements, and delivering high-quality software solutions. I am fluent in English, Ukrainian, and Russian, with basic proficiency in Bulgarian.
+I am a dedicated Senior Software Engineer and Team Lead with 9+ years of experience in enterprise software development. My expertise lies in the .NET and Azure ecosystems, with a strong foundation in microservices architecture, cloud technologies, and agile methodologies. I have a proven track record of leading and mentoring development teams, driving architectural improvements, and delivering high-quality software solutions. I am fluent in English, Ukrainian, and Russian, with basic proficiency in Bulgarian.
 
 ---
 
 ## Professional Highlights
 
 - **Leadership:** Successfully led teams of up to 7 members, facilitating communication and collaboration to achieve project goals.
-- **Technical Expertise:** Advanced knowledge in C#, .NET Core, Azure, Docker, Kubernetes, and various database technologies.
+- **Technical Expertise:** Advanced knowledge in C#, .NET Core, Azure, Docker, and various database technologies.
 - **Project Management:** Skilled in managing project scopes, delegating tasks, and ensuring timely delivery of core platform functionalities.
 - **Continuous Improvement:** Committed to professional development, obtaining multiple Microsoft certifications to stay current with industry trends.
 - **Problem-Solving:** Adept at identifying issues, analyzing root causes, and implementing effective solutions to complex technical challenges.
@@ -175,13 +175,13 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 ### Slotegrator SSO Integration
 **Description:** Developed a comprehensive Single Sign-On (SSO) solution to streamline user authentication across multiple platforms.
 
-**Technologies Used:** C#, .NET Core, Azure Functions, Docker, RabbitMQ
+**Technologies Used:** C#, .NET Core, PostgreSQL, MongoDB, Kafka, Redis, Docker
 
 **Role:** Lead Developer
 
 **Achievements:**
-- Successfully implemented SSO, reducing user login times by 40%.
-- Enhanced security protocols, ensuring compliance with industry standards.
+- Unified authentication across multiple platforms, eliminating duplicated auth logic and standardizing token issuance and session management.
+- Configured OAuth 2.0 / OpenID Connect flows across the in-house SSO service and Keycloak.
 
 **Link:** [Web site](https://slotegrator.pro/about-us.html)
 
@@ -190,13 +190,13 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 ### Forte Group
 **Description:** Led the transition of Interfirst Mortgage Company's platform from a monolithic architecture to a scalable microservices architecture.
 
-**Technologies Used:** C#, .NET Core, Azure, Docker, Kubernetes
+**Technologies Used:** C#, .NET Core, EF Core, Azure, MS SQL Server, Docker
 
 **Role:** Team Lead
 
 **Achievements:**
-- Improved system scalability by 50%, accommodating increased user load.
-- Streamlined deployment processes, reducing release cycles by 30%.
+- Extracted 4 independently deployable services from the monolith, shortening the release cycle from monthly to weekly.
+- Introduced end-to-end testing in Docker and BenchmarkDotNet profiling — ~25% better runtime performance and 20% fewer regression defects.
 
 **Link:** [Web site](https://fortegrp.com/about-forte-group)
 
@@ -210,8 +210,8 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 **Role:** Senior Software Engineer
 
 **Achievements:**
-- Increased platform performance by 25% through optimized microservices.
-- Implemented comprehensive testing, improving software reliability.
+- Integrated Azure services to improve observability and cut infrastructure costs by ~50%.
+- Established unit and integration testing, reducing production regressions by 15%.
 
 **Link:** [Web site](https://avto.pro/static/about/)
 
@@ -225,8 +225,8 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 **Role:** Junior Software Engineer
 
 **Achievements:**
-- Achieved a 50% increase in data processing speed through optimized multithreading.
-- Enhanced system reliability, reducing downtime by 20%.
+- Processed thousands of linked data sets and images reliably using parallelism and multithreading.
+- Improved throughput through profiling, optimization, and refactoring.
 
 **Link:** [Web site](https://abp.biz/)
 

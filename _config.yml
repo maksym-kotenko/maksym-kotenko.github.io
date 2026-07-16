@@ -1,7 +1,7 @@
 title: Maksym Kotenko
 email: maksym_kotenko@outlook.com
 description: >
-  Senior Software Engineer and Team Lead with over 8 years in enterprise software development. Expertise in .NET and Azure ecosystems, with a strong foundation in microservices architecture, cloud technologies, and agile methodologies.
+  Senior Software Engineer and Team Lead with 9+ years in enterprise software development. Expertise in .NET and Azure ecosystems, with a strong foundation in microservices architecture, cloud technologies, and agile methodologies.
 url: "https://maksym-kotenko.github.io" # the base hostname & protocol for your site
 github_username: maksym-kotenko
 
@@ -35,7 +35,7 @@ social:
 jekyll_seo_tag:
   title: "Maksym Kotenko - Senior Software Engineer | Team Lead"
   description: >
-    Senior Software Engineer and Team Lead with over 8 years in enterprise software development. Expertise in .NET and Azure ecosystems, microservices architecture, cloud technologies, and agile methodologies.
+    Senior Software Engineer and Team Lead with 9+ years in enterprise software development. Expertise in .NET and Azure ecosystems, microservices architecture, cloud technologies, and agile methodologies.
   url: "https://maksym-kotenko.github.io"
   image: "/assets/images/profile.jpg"
   type: "website"
