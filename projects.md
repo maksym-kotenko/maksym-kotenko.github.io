@@ -6,17 +6,14 @@ permalink: /projects/
 
 ## Projects
 
-### Enterprise Management System
-Developed a comprehensive management system for an enterprise client, enhancing operational efficiency through automation and streamlined workflows. Technologies used include C#, .NET Core, and Azure.
-
-### E-commerce Platform
-Created a scalable e-commerce platform capable of handling high traffic and transactions, utilizing microservices architecture with Docker.
-
 ### Single Sign-On (SSO)
 Implemented a unified authentication service to streamline user access across multiple applications, ensuring secure and efficient login processes.
 
-### High-load Parsing System
-Designed and developed a system capable of handling high-load scenarios using parallelism and multithreading, significantly improving data processing speeds.
+### Interfirst Mortgage Platform (Forte Group)
+Led a cross-functional team of 7 transitioning a US mortgage-lending platform from a monolithic architecture to microservices, extracting 4 independently deployable services and shortening the release cycle from monthly to weekly.
 
 ### Avto.pro Trading Platform
-Enhanced platform capabilities and performance by integrating new Azure technologies, ensuring reliable and efficient auto parts sales operations.
+Scalable e-commerce platform for auto parts sales, handling high traffic and transactions on a microservices architecture with Docker. Enhanced platform capabilities and performance by integrating new Azure technologies.
+
+### High-load Parsing System
+Designed and developed a system capable of handling high-load scenarios using parallelism and multithreading, significantly improving data processing speeds.
